@@ -1,0 +1,73 @@
+/*---start-footer-----*/
+.footer {
+    background: #32383C;
+    padding: 5em 0 2em;
+}
+.footer-grid{
+    float:left;
+    width:23%;
+    margin-right:2%;
+}
+.footer-grid h3 {
+    font-size: 1.7em;
+    color: #fff;
+    text-transform: capitalize;
+    margin-bottom: 1.3em;
+}
+.footer-grid p{
+    font-size:1em;
+    color: rgb(135, 138, 140);
+    line-height:1.8em;
+}
+.footer-grid ul li{
+    list-style-type:none;
+}
+.footer-grid ul li a {
+    display: block;
+    font-size: 1em;
+    line-height: 1.8em;
+    color: rgb(135, 138, 140);
+    transition: 0.5s ease;
+    -o-transition: 0.5s ease;
+    -webkit-transition: 0.5s ease;
+    text-decoration: none;
+}
+.footer-grid ul li a:hover{
+    color:#fff;
+    text-decoration:none;
+}
+.footer-lastgrid{
+    margin:0;
+}
+.email-link{
+    color:#FFF;
+    transition: 0.5s ease;
+    -o-transition: 0.5s ease;
+    -webkit-transition: 0.5s ease;
+    text-transform:lowercase;
+}
+.email-link:hover{
+    color:rgb(135, 138, 140);
+}
+/*---start-copy-right-----*/
+.copy-right {
+    text-align: center;
+    padding: 3em 0 0;
+}
+.copy-right p {
+    font-size: 1em;
+    color: rgb(135, 138, 140);
+    text-transform: capitalize;
+    line-height: 1.8em;
+}
+.copy-right p a{
+    color:#fff;
+    transition: 0.5s ease;
+    -o-transition: 0.5s ease;
+    -webkit-transition: 0.5s ease;
+}
+.copy-right p a:hover{
+    color:rgb(135, 138, 140);
+    text-decoration:underline;
+}
+/*--- //footer ----*/
